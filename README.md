@@ -13,14 +13,12 @@ If you are a git user, you can install the theme and keep up to data by cloning 
 - Open `Packages` folder by:
     - Click the menu item `Perferences` -> `Browser Packages...`
     - <kbd>Win</kbd> + <kbd>R</kbd> -> input `%APPDATA%` -> go to `Sublime Text 3` -> `Packages`
-- Clone this theme:
-
-    $ git clone https://github.com/Marslo/marslo-theme.git "Theme - Marslo"
+- Clone this theme
+    <pre><code>$ git clone https://github.com/Marslo/marslo-theme.git "Theme - Marslo"</code></pre>
 
 ### Additional Features:
 - Settings - User:
-
-    "marslo_classic_tabs": true
+    <pre><code>"marslo_classic_tabs": true</code></pre>
 
 ## Reference
 - [soda-theme Marslo Version](https://github.com/Marslo/soda-theme)

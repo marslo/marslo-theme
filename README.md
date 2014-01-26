@@ -10,11 +10,16 @@ It's inspired from [Theme - Soda](https://github.com/buymeasoda/soda-theme/)
 ## Installation
 ### Using by Git
 If you are a git user, you can install the theme and keep up to data by cloning the repo directly into your `package` directory by step as below:
+#### Windows
 - Open `Packages` folder by:
     - Click the menu item `Perferences` -> `Browser Packages...`
     - <kbd>Win</kbd> + <kbd>R</kbd> -> input `%APPDATA%` -> go to `Sublime Text 3` -> `Packages`
 - Clone this theme
     <pre><code>$ git clone https://github.com/Marslo/marslo-theme.git "Theme - Marslo"</code></pre>
+
+#### Linux User:
+- Clone to <PACKAGE> folder
+    <pre><code>git clone https://github.com/Marslo/marslo-theme.git "$HOME/.config/sublime-text-3/Packages/Theme - Marslo"</code></pre>
 
 ### Configure
 #### Setting by manually (Only for colorschemem)
